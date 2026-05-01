@@ -1,0 +1,5 @@
+Stock Portfolio Summary
+
+TSLA -> Qty: 175, Value: 43750
+
+Total Investment: 43750
